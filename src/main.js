@@ -12,7 +12,7 @@ Vue.config.productionTip = false
 
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCaC_TwNoeFBBNyfvJkDzxlrKQTO-2mzfU",
+  apiKey: "your key",
   authDomain: "amc-calendar-tg.firebaseapp.com",
   databaseURL: "https://amc-calendar-tg.firebaseio.com",
   projectId: "amc-calendar-tg",
